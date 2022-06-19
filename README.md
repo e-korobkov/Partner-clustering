@@ -1,2 +1,5 @@
-# Partner-clustering
-Research: Clustering of partners
+# Пояснения
+Код призван визуально оценить результат кластеризации по 3 фичам, для алгоритмов (KMeans, DBSCAN, OPTICS, AgglomerativeClustering, SpectralClustering). Такой подход также позволят быстрее подобрать настройки.
+
+Папка «Видео» содержит короткие записи для каждого алгоритма кластеризации.
+
